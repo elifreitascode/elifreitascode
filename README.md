@@ -2,8 +2,6 @@
 
 Tenho 18 anos, sou apaixonado por tecnologia e programação. Também amo praticar esportes, é uma das coisas que mais gosto de fazer, aliás, fui atleta por alguns anos.   Atualmente estou cursando Técnico em Desenvolvimento de sistemas.
 
-
-<img src="https://tenor.com/pt-BR/view/baby-typing-computer-cute-gif-17689613" width="50px"/>
 <div>
 <a href="https://github.com/elifretascode">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifreitascode&layout=compact&langs_count=7&theme=vue-dark"/>
