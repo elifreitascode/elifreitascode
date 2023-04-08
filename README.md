@@ -1,21 +1,21 @@
-### Hi there 👋
+### Olá, me chamo Elizeu ! 
 
 Tenho 18 anos, sou apaixonado por tecnologia e programação. Também amo praticar esportes, é uma das coisas que mais gosto de fazer, aliás, fui atleta por alguns anos.   Atualmente estou cursando Técnico em Desenvolvimento de sistemas.
 
 
-
-![hippo](https://tenor.com/pt-BR/view/up-is-not-jump-computer-laptop-fire-fire-extinguisher-gif-15071502)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elifreitascode&theme=vue-dark&show_icons=true)
-
-
+<img src="https://tenor.com/pt-BR/view/baby-typing-computer-cute-gif-17689613" width="50px"/>
+<div>
+<a href="https://github.com/elifretascode">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifreitascode&layout=compact&langs_count=7&theme=vue-dark"/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elifreitascode&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+</div>
+<div>
+
+
+<a href = "mailto:elizeferreiradefreitas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/elizeu-ffreitas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
  ### TECNOLOGIAS E FERRAMENTAS     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50px" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="49px"/>
@@ -23,7 +23,6 @@ Tenho 18 anos, sou apaixonado por tecnologia e programação. Também amo pratic
  
 
 
-
-💻 Estou estudando,aperfeiçoando Python e algumas ferramentas.       
+       
 
           
