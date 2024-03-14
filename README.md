@@ -1,6 +1,6 @@
 ### Olá, me chamo Elizeu ! 
 
-Tenho 18 anos, sou apaixonado por tecnologia e programação. Também amo praticar esportes, é uma das coisas que mais gosto de fazer, aliás, fui atleta por alguns anos.   Atualmente estou cursando Técnico em Desenvolvimento de sistemas.
+Tenho 19 anos, sou apaixonado por tecnologia e programação. Também amo praticar esportes, é uma das coisas que mais gosto de fazer, aliás, fui atleta por alguns anos.   Atualmente estou cursando Técnico em Desenvolvimento de sistemas.
 
 <div>
 <a href="https://github.com/elifretascode">
